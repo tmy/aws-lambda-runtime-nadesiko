@@ -1,0 +1,16 @@
+{
+  "name": "aws-lambda-runtime-nadesiko",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmy/aws-lambda-runtime-nadesiko.git"
+  },
+  "description": "AWS Lambda で、なでしこを動作させるランタイム",
+  "author": "Akinori Tomita",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node-fetch": "^2.1.4",
+    "nadesiko3": "^3.0.52",
+    "node-fetch": "^2.3.0"
+  }
+}

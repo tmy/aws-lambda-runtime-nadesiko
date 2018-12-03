@@ -1,0 +1,4 @@
+#!/bin/bash
+layer_root=$(dirname "$0")
+cd "$LAMBDA_TASK_ROOT"
+exec "$layer_root/node-v10.14.1-linux-x64/bin/node" "$layer_root/runtime.js"
