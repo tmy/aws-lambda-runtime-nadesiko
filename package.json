@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/node-fetch": "^2.1.4",
-    "nadesiko3": "^3.0.52",
+    "nadesiko3": "^3.0.63",
     "node-fetch": "^2.3.0"
   }
 }
